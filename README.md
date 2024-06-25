@@ -1,4 +1,5 @@
 # AvrestiContainer
+[![PHP Composer](https://github.com/fg-tec/avresticontainer/actions/workflows/php.yml/badge.svg)](https://github.com/fg-tec/avresticontainer/actions/workflows/php.yml)
 
 AvrestiContainer is a lightweight and flexible dependency injection (DI) container for PHP. It allows you to manage class dependencies and perform dependency injection in a simple and intuitive way.
 
@@ -147,4 +148,4 @@ Inspired by various PHP DI containers, AvrestiContainer aims to be a simple yet 
 
 ## Contact
 
-For any questions or inquiries, please contact us at [your-email@example.com].
+For any questions or inquiries, please create an issue on [GitHub](https://github.com/fg-tec/avresticontainer/issues).
