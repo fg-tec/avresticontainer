@@ -18,7 +18,7 @@ AvrestiContainer is a lightweight and flexible dependency injection (DI) contain
 You can install AvrestiContainer via Composer:
 
 ```bash
-composer require avresticontainer/avresticontainer
+composer require franco2911/avresticontainer
 ```
 
 ## Usage
