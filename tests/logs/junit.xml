@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="CLI Arguments" tests="1" assertions="1" errors="0" failures="0" skipped="0" time="0.005779">
+    <testsuite name="Unit\ContainerTest" file="E:\Dev\avresticontainer\tests\Unit\ContainerTest.php" tests="1" assertions="1" errors="0" failures="0" skipped="0" time="0.005779">
+      <testcase name="testBindAndResolve" file="E:\Dev\avresticontainer\tests\Unit\ContainerTest.php" line="17" class="Unit\ContainerTest" classname="Unit\ContainerTest" assertions="1" time="0.005779"/>
+    </testsuite>
+  </testsuite>
+</testsuites>

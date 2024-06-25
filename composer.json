@@ -1,0 +1,37 @@
+{
+    "name": "franco2911/avresticontainer",
+    "description": "Lightweight and flexible Inversion of Control (IoC) container for PHP",
+    "type": "library",
+    "license": "MIT",
+
+    "authors": [
+        {
+            "name": "Franco Gaudiano",
+            "email": "franco@gaudiano.ch"
+        }
+    ],
+
+    "require": {
+        "php": "^8.3"
+    },
+
+    "require-dev": {
+        "symfony/var-dumper": "^5.1",
+        "filp/whoops": "^2.7",
+        "phpunit/phpunit": "^11.2"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "Avresticontainer\\": "src/",
+            "Example\\": "example"
+        }
+    },
+
+    "scripts": {
+        "test": "phpunit"
+    },
+
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
